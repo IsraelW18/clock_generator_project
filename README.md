@@ -1,5 +1,7 @@
 # ⏱️ Clock Generator (Date + Time)
 
+**Developer:** Israel Wasserman [LinkedIn](https://www.linkedin.com/in/israel-wasserman/)
+
 This project simulates a digital clock that continuously generates complete date and time sequences using Python generators.
 By leveraging generators, the system produces one value at a time in a memory-efficient way, without storing large lists in memory.
 This approach is ideal for handling long-running or infinite time streams, and demonstrates how clean, modular design combined with generator-based logic can lead to efficient and elegant code.
